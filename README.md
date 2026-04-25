@@ -35,7 +35,6 @@ This project demonstrates the configuration of a Cisco ASA firewall to secure co
 ## 🌐 Network Topology
 
 ![Firewall Lab](topology/firewall-topology.png)
-![Firewall Lab](topology/firewall-topology.png)
 
 ---
 
